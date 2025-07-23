@@ -1,0 +1,9 @@
+{
+  "start_url": "https://httpbin.org",
+  "max_depth": 1,
+  "pages_crawled": 2,
+  "images_downloaded": 0,
+  "failed_urls": 0,
+  "crawl_time": "2025-07-23T14:39:18.662392",
+  "reason": "finished"
+}
